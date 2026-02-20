@@ -1,14 +1,15 @@
-Azure Cloud Computing & Data Analytics Project
+**Azure Cloud Computing & Data Analytics Project**
 
-Project Overview
+**Project Overview**
 
 This project demonstrates an end-to-end cloud computing and data analytics solution built using Microsoft Azure services and Power BI. The objective was to design, deploy, and integrate cloud infrastructure, IoT data ingestion, database management, and business intelligence reporting into a unified cloud-based architecture.
 
 The project uses the AdventureWorksLT dataset to simulate real-world business scenarios and implements IoT sensor data simulation to demonstrate real-time data ingestion and storage in Azure.
 
- Architecture Components
-1. Azure Virtual Machine (Ubuntu)
+**Architecture Components**
 
+1. Azure Virtual Machine (Ubuntu)
+   
 Deployed and configured Ubuntu VM
 
 Enabled remote access via RDP
@@ -68,7 +69,7 @@ Product Distribution
 Order Analytics
 
 
-Technologies Used
+**Technologies Used**
 
 Microsoft Azure (VM, Storage, IoT Hub, SQL Database)
 
@@ -81,7 +82,7 @@ Power BI (DAX & Dashboarding)
 Raspberry Pi IoT Simulator
 
 
- Key Outcomes
+**Key Outcomes**
 
 Designed and deployed scalable cloud infrastructure
 
@@ -96,7 +97,7 @@ Developed interactive business intelligence dashboards
 Demonstrated practical application of cloud analytics for data-driven decision-making
 
 
-Project Significance
+**Project Significance**
 
 This project showcases hands-on experience in:
 
