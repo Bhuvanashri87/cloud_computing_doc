@@ -112,3 +112,9 @@ Business Intelligence & Data Visualization
 End-to-End Cloud Data Pipeline Design
 
 It reflects practical understanding of how modern cloud ecosystems integrate infrastructure, data ingestion, storage, analytics, and visualization to support enterprise-level decision-making.
+
+**Project Report**
+
+The detailed project report can be accessed here:
+
+[Download Project Report](./project_report/Cloud_computing_project_report.pdf)
